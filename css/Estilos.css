@@ -1,0 +1,32 @@
+
+@font-face{
+	font-family: 'austina';
+	src: url('../fonts/austina.otf'),
+		 url('../fonts/austina.ttf');
+}
+@font-face{
+	font-family: 'beto';
+	src: url('../fonts/octobre.ttf');
+}
+@font-face{
+	font-family: 'fanfare';
+	src: url('../fonts/fanfare3d.ttf');
+}
+	
+h1{
+
+   font-family: 'austina';
+	font-size: 72px;
+}
+h2{
+	font-family: 'beto';
+	font-size: 42px;
+}
+h3{
+	font-family: 'fanfare';
+	font-size: 52px;
+}
+h4{
+	font-family: 'Indie Flower';
+	font-size: 70px;
+}
